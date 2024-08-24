@@ -1,4 +1,3 @@
-Certainly! Here's a consolidated README for the entire repository:
 
 # Open Quantum System Simulations Repository
 
