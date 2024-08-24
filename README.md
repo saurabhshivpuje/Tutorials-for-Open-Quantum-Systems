@@ -21,19 +21,8 @@ Navigate into each directory for detailed instructions and examples. Ensure you 
 
 ## Licensing
 
-Each directory might have its own licensing. Please refer to the individual README files within each directory for specific licensing information.
-
-## Contributions
-
-Contributions to this project are welcome. Please read the contribution guidelines in CONTRIBUTING.md before submitting a pull request.
-
-## Contact
-
-For any further queries or issues, please open an issue on GitHub or contact [your email].
+Each directory or notebook might have its own licensing. Please refer to the individual README files and notebooks within each directory for specific licensing information.
 
 ## Acknowledgments
 
 This work is supported by references to significant publications, which can be found within each specific tutorial's directory.
-```
-
-This README provides a clear and comprehensive introduction to your repository, guiding users on how to get started, what to expect from each tutorial, and where to find further information.
