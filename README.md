@@ -1,5 +1,5 @@
 
-# Open Quantum System Simulations Repository
+# Open Quantum System Simulations 
 
 This repository contains a series of comprehensive tutorials designed to help users understand and implement various simulation techniques for open quantum systems. Each tutorial is provided in Python, using Jupyter Notebooks to offer detailed explanations in both markdown and code comments.
 
